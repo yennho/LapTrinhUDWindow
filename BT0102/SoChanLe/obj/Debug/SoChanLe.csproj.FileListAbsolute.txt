@@ -1,0 +1,5 @@
+D:\110117065\LapTrinhUDWindow\BT0102\SoChanLe\bin\Debug\SoChanLe.exe.config
+D:\110117065\LapTrinhUDWindow\BT0102\SoChanLe\bin\Debug\SoChanLe.exe
+D:\110117065\LapTrinhUDWindow\BT0102\SoChanLe\bin\Debug\SoChanLe.pdb
+D:\110117065\LapTrinhUDWindow\BT0102\SoChanLe\obj\Debug\SoChanLe.exe
+D:\110117065\LapTrinhUDWindow\BT0102\SoChanLe\obj\Debug\SoChanLe.pdb
