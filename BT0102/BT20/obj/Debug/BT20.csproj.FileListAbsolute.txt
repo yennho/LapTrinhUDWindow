@@ -1,0 +1,5 @@
+D:\110117065\LapTrinhUDWindow\BT0102\BT20\bin\Debug\BT20.exe.config
+D:\110117065\LapTrinhUDWindow\BT0102\BT20\bin\Debug\BT20.exe
+D:\110117065\LapTrinhUDWindow\BT0102\BT20\bin\Debug\BT20.pdb
+D:\110117065\LapTrinhUDWindow\BT0102\BT20\obj\Debug\BT20.exe
+D:\110117065\LapTrinhUDWindow\BT0102\BT20\obj\Debug\BT20.pdb
