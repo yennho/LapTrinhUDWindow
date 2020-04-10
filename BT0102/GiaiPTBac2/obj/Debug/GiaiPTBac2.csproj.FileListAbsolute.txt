@@ -1,6 +1,0 @@
-D:\110117065\LapTrinhUDWindow\BT0102\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe.config
-D:\110117065\LapTrinhUDWindow\BT0102\GiaiPTBac2\bin\Debug\GiaiPTBac2.exe
-D:\110117065\LapTrinhUDWindow\BT0102\GiaiPTBac2\bin\Debug\GiaiPTBac2.pdb
-D:\110117065\LapTrinhUDWindow\BT0102\GiaiPTBac2\obj\Debug\GiaiPTBac2.exe
-D:\110117065\LapTrinhUDWindow\BT0102\GiaiPTBac2\obj\Debug\GiaiPTBac2.pdb
-D:\110117065\LapTrinhUDWindow\BT0102\GiaiPTBac2\obj\Debug\GiaiPTBac2.csprojResolveAssemblyReference.cache

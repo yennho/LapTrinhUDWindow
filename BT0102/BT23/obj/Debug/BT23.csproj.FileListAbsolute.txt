@@ -1,5 +1,0 @@
-D:\110117065\LapTrinhUDWindow\BT0102\BT23\bin\Debug\BT23.exe.config
-D:\110117065\LapTrinhUDWindow\BT0102\BT23\bin\Debug\BT23.exe
-D:\110117065\LapTrinhUDWindow\BT0102\BT23\bin\Debug\BT23.pdb
-D:\110117065\LapTrinhUDWindow\BT0102\BT23\obj\Debug\BT23.exe
-D:\110117065\LapTrinhUDWindow\BT0102\BT23\obj\Debug\BT23.pdb

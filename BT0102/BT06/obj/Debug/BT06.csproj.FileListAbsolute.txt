@@ -1,5 +1,0 @@
-D:\110117065\LapTrinhUDWindow\BT0102\BT06\bin\Debug\BT06.exe.config
-D:\110117065\LapTrinhUDWindow\BT0102\BT06\bin\Debug\BT06.exe
-D:\110117065\LapTrinhUDWindow\BT0102\BT06\bin\Debug\BT06.pdb
-D:\110117065\LapTrinhUDWindow\BT0102\BT06\obj\Debug\BT06.exe
-D:\110117065\LapTrinhUDWindow\BT0102\BT06\obj\Debug\BT06.pdb

@@ -1,6 +1,0 @@
-D:\110117065\LapTrinhUDWindow\BT0102\BT08\bin\Debug\BT08.exe.config
-D:\110117065\LapTrinhUDWindow\BT0102\BT08\bin\Debug\BT08.exe
-D:\110117065\LapTrinhUDWindow\BT0102\BT08\bin\Debug\BT08.pdb
-D:\110117065\LapTrinhUDWindow\BT0102\BT08\obj\Debug\BT08.csprojResolveAssemblyReference.cache
-D:\110117065\LapTrinhUDWindow\BT0102\BT08\obj\Debug\BT08.exe
-D:\110117065\LapTrinhUDWindow\BT0102\BT08\obj\Debug\BT08.pdb
